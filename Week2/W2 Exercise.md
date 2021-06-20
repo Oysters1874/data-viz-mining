@@ -60,7 +60,8 @@ domain, connecting the data to existing domain knowledge and giving it relevant 
 ****
 
 ### Insight Reports
-
+Immigration Flow + Insights on Italian Immigrants
+Amanda : https://nbviewer.jupyter.org/gist/Oysters1874/520d78e5e95f5b5cc95fb8114fafd3fa
 - 
 
 <br>
